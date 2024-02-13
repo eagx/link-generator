@@ -2,8 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const domainSelect = document.getElementById('domainSelect');
   const gameLinksDiv = document.getElementById('gameLinks');
 
-  const games = [
-    { name: "2048", subdomain: "games-cloudflare-2"},
+  const games = [  
     { name: "bitlife" },
     { name: "monkey-mart" },
     { name: "stickman-hook" },
@@ -47,13 +46,13 @@ document.addEventListener('DOMContentLoaded', function () {
     { name: "moto-x3m-3" },
     { name: "moto-x3m-winter" },
     { name: "moto-x3m-pool-party" },
-    { name: "motot-x3m-spooky-land" },
+    { name: "moto-x3m-spooky-land" },
     { name: "boxel-rebound" },
     { name: "doodle-jump" },
     { name: "crossy-road" },
     { name: "little-alchemy", subdomain: "little-alchemy"  },
     { name: "doge-miner" },
-    { name: "doge-miner-2" },
+    { name: "doge-miner-2", subdomain: "games" },
     { name: "bob-the-robber", subdomain: "games-cloudflare-2" },
     { name: "money-movers-3" },
     { name: "bloons-td" },
