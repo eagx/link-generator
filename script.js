@@ -41,6 +41,8 @@ document.addEventListener('DOMContentLoaded', function () {
       { name: "flappy-bird" },
       { name: "learn-to-fly" },
       { name: "learn-to-fly-2" },
+      { name: "learn-to-fly-3" },
+      { name: "" },
 
     ];
   
