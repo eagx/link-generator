@@ -52,6 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
     { name: "doodle-jump" },
     { name: "crossy-road" },
     { name: "little-alchemy", subdomain: "little-alchemy"  },
+    { name: "little-alchemy-2", subdomain: "little-alchemy-2"  },
     { name: "doge-miner" },
     { name: "doge-miner-2", subdomain: "games" },
     { name: "bob-the-robber", subdomain: "games-cloudflare-2" },
