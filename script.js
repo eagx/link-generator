@@ -304,6 +304,7 @@ document.addEventListener('DOMContentLoaded', function () {
     { name: "johnny-upgrade" },
     { name: "jelly-truck" },
     { name: "one-more-flight", subdomain: "games-cloudflare-2" },
+    { name: "tidal-wave", subdomain: "games-cloudflare-2" },
   ];
 
   function generatePathFromName(name) {
