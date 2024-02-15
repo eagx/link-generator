@@ -34,6 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
     { name: "duck-life-6" },
     { name: "cookie-clicker" },
     { name: "geometry-dash" },
+    { name: "tidal-wave", subdomain: "games-cloudflare-2" },
     { name: "friday-night-funkin" },
     { name: "getting-over-it-scratch-edition", subdomain: "games" },
     { name: "flappy-bird" },
@@ -267,6 +268,7 @@ document.addEventListener('DOMContentLoaded', function () {
     { name: "time-shooter-2" },
     { name: "time-shooter-3" },
     { name: "minecraft", subdomain: "games"  },
+    { name: "minecraft-classic", subdomain: "games-cloudflare-2" },
     { name: "sm64" },
     { name: "canyon-defense" },
     { name: "alien-invaders-io" },
@@ -304,7 +306,6 @@ document.addEventListener('DOMContentLoaded', function () {
     { name: "johnny-upgrade" },
     { name: "jelly-truck" },
     { name: "one-more-flight", subdomain: "games-cloudflare-2" },
-    { name: "tidal-wave", subdomain: "games-cloudflare-2" },
   ];
 
   function generatePathFromName(name) {
