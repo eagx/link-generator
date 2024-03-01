@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function () {
     { name: "boxel-rebound" },
     { name: "doodle-jump" },
     { name: "crossy-road" },
-    { name: "little-alchemy", subdomain: "little-alchemy"  },
+    { name: "little-alchemy", subdomain: "games-cloudflare-2"  },
     { name: "little-alchemy-2", subdomain: "little-alchemy-2"  },
     { name: "doge-miner" },
     { name: "doge-miner-2", subdomain: "games" },
